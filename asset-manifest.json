@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb23f586.css",
+    "main.js": "/static/js/main.12eae3bd.js",
+    "static/media/competition1.png": "/static/media/competition1.23eaf7a6c80a6c8c32d8.png",
+    "static/media/project1.png": "/static/media/project1.c5ab8ba2a3c93bc6c5a0.png",
+    "static/media/competition2.png": "/static/media/competition2.68913ef23485addba7e5.png",
+    "static/media/project4.png": "/static/media/project4.04e55b291b277a9f8d86.png",
+    "static/media/resumePaper1.png": "/static/media/resumePaper1.3fdb317fa1519efb398c.png",
+    "static/media/resumePaper2.png": "/static/media/resumePaper2.f433fbae7995b83eda01.png",
+    "static/media/bannerImg.png": "/static/media/bannerImg.3fbec66bdb76d9416ad9.png",
+    "static/media/project3.png": "/static/media/project3.bedadae7ab56929fddf8.png",
+    "static/media/project2.png": "/static/media/project2.f44b94c4ed6b006f13a5.png",
+    "index.html": "/index.html",
+    "main.fb23f586.css.map": "/static/css/main.fb23f586.css.map",
+    "main.12eae3bd.js.map": "/static/js/main.12eae3bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb23f586.css",
+    "static/js/main.12eae3bd.js"
+  ]
+}
